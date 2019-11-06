@@ -19,7 +19,7 @@ return product
 end
 
 def modulo(num1, num2)
-remainder = num2%num1
+remainder = num2 % num1
 return remainder
 end
 
